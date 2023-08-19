@@ -1,7 +1,6 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Amar985/Amar-Kumar/main/2pp-removebg-preview.png"  />
 </div>
-###
 
 <h2 align="center">Hi 👋! I'm Amar Kumar.</h2>
 
