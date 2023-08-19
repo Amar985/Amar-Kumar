@@ -2,6 +2,8 @@
   <img height="200" src="![2pp-removebg-preview](https://github.com/Amar985/Amar-Kumar/assets/84828275/773574c3-81ef-48da-b4eb-bb0b19b18224)"  />
 </div>
 
+![2pp-removebg-preview](https://github.com/Amar985/Amar-Kumar/assets/84828275/8c448386-9575-4051-83d3-aa2eaf3cdd99)
+
 ###
 
 <h2 align="center">Hi 👋! I'm Amar Kumar.</h2>
@@ -19,6 +21,11 @@
 ###
 
 <p align="left">I'm Amar Kumar from India<br><br>- 🔭 I’m currently working on Data Structures and Algorithms <br>- 📚 I'm currently learning Salesforce<br>- ⚡ In my free time I love Shooting 10m with air rifle.<br>- 📝 I regularly write articles on https://medium.com/@amrkchv</p>
+
+
+###
+<img align="right" height="150" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
 
 ###
 
@@ -102,15 +109,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
-###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-###
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
