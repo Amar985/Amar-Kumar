@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="![2pp-removebg-preview](https://github.com/Amar985/Amar-Kumar/assets/84828275/773574c3-81ef-48da-b4eb-bb0b19b18224)"  />
+  <img height="200" src="[![2pp-removebg-preview]()](https://github.com/Amar985/Amar-Kumar/assets/84828275/773574c3-81ef-48da-b4eb-bb0b19b18224)"  />
 </div>
 
 
