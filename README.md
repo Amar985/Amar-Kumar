@@ -2,7 +2,6 @@
   <img height="200" src="![2pp-removebg-preview](https://github.com/Amar985/Amar-Kumar/assets/84828275/773574c3-81ef-48da-b4eb-bb0b19b18224)"  />
 </div>
 
-![2pp-removebg-preview](https://github.com/Amar985/Amar-Kumar/assets/84828275/8c448386-9575-4051-83d3-aa2eaf3cdd99)
 
 ###
 
@@ -94,11 +93,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amar985&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amar985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Amar985/Amar985/output/snake.svg" alt="Snake animation" />
 
 ###
