@@ -5,7 +5,6 @@
 <h2 align="center">Hi 👋! I'm Amar Kumar.</h2>
 
 ###
-<br clear="both">
 
 <h4 align="center">☁️Salesforce Development | 🗄️Data Analytics | 🕸️Web Development</h4>
 
