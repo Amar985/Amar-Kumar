@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Amar Kumar from India<br><br>- 🔭 I’m currently working on Data Structures and Algorithms <br>- 📚 I'm currently learning Salesforce<br>- ⚡ In my free time I love Shooting 10m with air rifle<br>- 📝 I regularly write articles on https://medium.com/@amrkchv<br>-  📫 You can reach me through my mail : amar.cd4@gmail.com </p>
+<p align="left">I'm Amar Kumar from India<br><br>- 🔭 I’m currently working on Data Structures and Algorithms <br>- 📚 I'm currently learning Salesforce<br>- ⚡ In my free time I love Shooting (Air Rifle)<br>- 📝 I regularly write articles on https://medium.com/@amrkchv<br>-  📫 You can reach me through my mail : amar.cd4@gmail.com </p>
 
 
 ###
